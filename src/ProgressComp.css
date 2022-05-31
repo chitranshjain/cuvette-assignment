@@ -1,0 +1,70 @@
+.progress-div {
+  border-radius: 10px;
+  border: 1px solid #ebf0f5;
+  padding: 30px;
+  width: 386px;
+  height: 429px;
+}
+
+.progress-div h6 {
+  font-weight: 700;
+}
+
+.progress-item {
+  margin-top: 20px;
+}
+
+.progress-item p {
+  margin-bottom: 14px;
+  font-weight: 400;
+  color: #566474;
+}
+
+.progress-item .progress {
+  width: 197px !important;
+  height: 10px !important;
+}
+
+.progress-bar-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.progress-bar-div {
+  font-weight: 700;
+}
+
+.item-one .progress .progress-bar {
+  background-color: #438af6 !important;
+  color: #438af6;
+}
+
+.item-one {
+  color: #438af6;
+}
+
+.item-two .progress .progress-bar {
+  background-color: #ff9142 !important;
+  color: #ff9142;
+}
+
+.item-two {
+  color: #ff9142;
+}
+.item-three .progress .progress-bar {
+  background-color: #fb5e5e !important;
+  color: #fb5e5e;
+}
+
+.item-three {
+  color: #fb5e5e;
+}
+.item-four .progress .progress-bar {
+  background-color: #2ec971 !important;
+  color: #2ec971;
+}
+
+.item-four {
+  color: #2ec971;
+}

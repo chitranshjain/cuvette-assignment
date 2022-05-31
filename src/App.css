@@ -1,0 +1,10 @@
+* {
+  font-family: "DM Sans", sans-serif;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
